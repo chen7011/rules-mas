@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,api.mijia.tech
 DOMAIN-SUFFIX,home.mi.com
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
-
+DOMAIN-KEYWORD,mijia
 # IP段匹配
 #IP-CIDR,142.171.133.131/32,no-resolve
 
