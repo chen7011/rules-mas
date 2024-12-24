@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,istore.istoreos.com
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,api.mijia.tech
 DOMAIN-SUFFIX,home.mi.com
+DOMAIN-SUFFIX,cainiao.com
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,mijia
