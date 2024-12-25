@@ -9,7 +9,9 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,chinaunicom.cn
+DOMAIN-SUFFIX,chinamobile.com
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,mijia
