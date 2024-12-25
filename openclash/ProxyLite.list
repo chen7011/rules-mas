@@ -1,24 +1,29 @@
 # 代理补充列表
 
-# 域名后缀匹配
-DOMAIN-SUFFIX,istore.istoreos.com
+###### 域名后缀匹配
+#政府网站
 DOMAIN-SUFFIX,gov.cn
+#istore
+DOMAIN-SUFFIX,istore.istoreos.com
+#小米
 DOMAIN-SUFFIX,api.mijia.tech
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,micloud.xiaomi.net
+#菜鸟
 DOMAIN-SUFFIX,cainiao.com
+#运营商APP
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,chinaunicom.cn
 DOMAIN-SUFFIX,chinamobile.com
-# 域名关键字匹配
+##### 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,mijia
-DOMAIN-KEYWORD,xiaomi
-# IP段匹配
+
+##### IP段匹配
 #IP-CIDR,142.171.133.131/32,no-resolve
 
-# 国外DNS
+##### 国外DNS
 #DOMAIN-SUFFIX,dns.google
 
