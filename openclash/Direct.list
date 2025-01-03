@@ -1,4 +1,2 @@
-DOMAIN,line1.ruimin.host
-DOMAIN,line2.ruimin.host
 DOMAIN-SUFFIX,ruimin.host
-DOMAIN-KEYWORD,ruimin
+IP-CIDR,36.251.67.0/24
