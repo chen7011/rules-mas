@@ -28,3 +28,5 @@ DOMAIN-SUFFIX,chinamobile.com
 ##### 国外DNS
 #DOMAIN-SUFFIX,dns.google
 
+DOMAIN-SUFFIX,m-team.cc
+
