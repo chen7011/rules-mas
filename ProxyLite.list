@@ -32,11 +32,11 @@ DOMAIN-SUFFIX,chinamobile.com
 #DOMAIN-SUFFIX,dns.google
 
 ##MP出口监测
-DOMAIN-SUFFIX,orz.tools
-DOMAIN-SUFFIX,m27.tech
-DOMAIN-SUFFIX,skk.moe
+#DOMAIN-SUFFIX,orz.tools
+#DOMAIN-SUFFIX,m27.tech
+#DOMAIN-SUFFIX,skk.moe
 
 #微信通知
-DOMAIN-SUFFIX,qyapi.weixin.qq.com
-DOMAIN-SUFFIX,open.work.weixin.qq.com
+#DOMAIN-SUFFIX,qyapi.weixin.qq.com
+#DOMAIN-SUFFIX,open.work.weixin.qq.com
 
