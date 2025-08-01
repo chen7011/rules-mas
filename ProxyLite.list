@@ -33,4 +33,7 @@ DOMAIN-SUFFIX,chinamobile.com
 ##### 国外DNS
 #DOMAIN-SUFFIX,dns.google
 
+##MP出口监测
+4.ipw.cn
+
 
