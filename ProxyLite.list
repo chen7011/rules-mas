@@ -3,9 +3,7 @@
 ###### 域名后缀匹配
 DOMAIN-SUFFIX,game.batwan.cn
 
-#微信通知
-DOMAIN-SUFFIX,qyapi.weixin.qq.com
-DOMAIN-SUFFIX,open.work.weixin.qq.com
+
 #政府网站
 DOMAIN-SUFFIX,gov.cn
 #istore
@@ -35,5 +33,7 @@ DOMAIN-SUFFIX,chinamobile.com
 
 ##MP出口监测
 4.ipw.cn
-
+#微信通知
+DOMAIN-SUFFIX,qyapi.weixin.qq.com
+DOMAIN-SUFFIX,open.work.weixin.qq.com
 
