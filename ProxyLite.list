@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,chinamobile.com
 #DOMAIN-SUFFIX,dns.google
 
 ##MP出口监测
-4.ipw.cn
+DOMAIN,4.ipw.cn
 #微信通知
 DOMAIN-SUFFIX,qyapi.weixin.qq.com
 DOMAIN-SUFFIX,open.work.weixin.qq.com
