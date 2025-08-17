@@ -39,4 +39,5 @@ DOMAIN-SUFFIX,chinamobile.com
 #微信通知
 #DOMAIN-SUFFIX,qyapi.weixin.qq.com
 #DOMAIN-SUFFIX,open.work.weixin.qq.com
-
+#todesk
+DOMAIN-SUFFIX,todesk.com
